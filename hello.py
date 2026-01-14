@@ -3,8 +3,9 @@
 
 def main():
     print("Hello! My name is Tharindu Lakshan Thilakarathna.")
-    print("Welcome to my COE3200 assignment repository.")
+    print("Welcome to my COE3200 Github Assignment.")
 
 if __name__ == "__main__":
 
     main()
+
