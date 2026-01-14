@@ -1,0 +1,9 @@
+# hello.py
+# A simple script to print a greeting message
+
+def main():
+    print("Hello! My name is Tharindu Lakshan (DevLakshan).")
+    print("Welcome to my COE3200 assignment repository.")
+
+if __name__ == "__main__":
+    main()
